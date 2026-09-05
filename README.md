@@ -1,3 +1,6 @@
+Project Title
+MediConnect: Centralized Web-Based Healthcare Consultation & Clinical Workflow Management System
+Short Description
 MediConnect is a secure, role-based healthcare web application built on a modern 3-tier architecture (Client UI, PHP/PDO application layer, and MySQL/MariaDB database). It digitizes the patient-physician lifecycle to eliminate manual scheduling bottlenecks, reduce consultation wait times, and guarantee end-to-end data integrity across clinical operations.
 Core Roles & Key Capabilities
 User 1 (Patient):
